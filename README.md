@@ -23,5 +23,7 @@ Sencha WYSIWYG editor that allows you to edit your application views, source cod
     - Realtime source code rendering.
 - Auto-generated source code.
 - Realtime application preview.
+# See it working
+[Demo](https://youtu.be/zZAwCAOgbNQ "Demo")
 # About us
 [Loopthy](https://www.loopthy.com "Loopthy")

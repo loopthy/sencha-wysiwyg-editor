@@ -1,0 +1,28 @@
+.toolboxview-tooltip {
+    white-space: pre-wrap;
+
+    .toolview-tooltip-title {
+        font: 600 18px/24px Roboto, sans-serif;
+        color: $color;
+        padding: 8px 0
+    }
+}
+.toolview-draggable-proxy {
+    font: 400 13px/16px Roboto, sans-serif;
+    background-color: $background-color;
+    position: absolute !important;
+    padding: 8px 16px;
+    border-radius: 2px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+    //box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12)
+}
+.toolview-draggable-proxy-invalid {
+    border: 2px solid red;
+}
+.toolview-draggable-proxy-valid {
+    border: 2px solid $base-color;
+}

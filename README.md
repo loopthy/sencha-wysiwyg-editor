@@ -12,17 +12,16 @@ Sencha WYSIWYG editor that allows you to edit your application views, source cod
     - Search query filter to find components.
     - Contextual component documentation.
   - Component property editor:
-    - Sorted and grouped component (configs and events) properties.
+    - Sorted and grouped component properties (configs and events).
     - Modify selected component properties.
     - Search query filter to find properties. 
   - View/Source Code editor (WYSIWYG):
+    - Realtime application preview.
     - Multiple views interface.
-    - Show underlying JavaScript code for the view.
+    - Show underlying auto-generated JavaScript source code for the view.
     - Drag in ready component editor.
     - Theme related ui representation.
     - Realtime source code rendering.
-- Auto-generated source code.
-- Realtime application preview.
 # See it working
 [Demo](https://youtu.be/zZAwCAOgbNQ "Demo")
 # About us
